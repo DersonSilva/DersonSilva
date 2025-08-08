@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/DersonSilva">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DersonSilva&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DersonSilva&theme=dracula&hide_border=false&layout=compact&include_repo=nome-do-repo1,nome-do-repo2"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DersonSilva&theme=dracula&hide_border=false&layout=compact"/>
   </a>
 </div>
