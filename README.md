@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/DersonSilva">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DersonSilva&theme=dracula&hide_border=false&layout=compact&include_repo=nome-do-repo1,nome-do-repo2"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DersonSilva&theme=dracula&hide_border=false&layout=compact"/>
+    <img align="center" alt="React Native" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> **React Native Developer**
   </a>
 </div>
 
